@@ -1,5 +1,8 @@
 ### Hi, I'm Saharsh!! 👋
 
+|:heart: Learning | :yellow_heart: Dancing | :blue_heart: Programming|
+|:---:|:---:|:---:|
+
 <img align="right" width="300" height="300" src="https://github.com/saharshleo/saharshleo/blob/master/readme.gif">
 
 Student at VJTI, Mumbai  
@@ -11,7 +14,9 @@ Student at VJTI, Mumbai
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=saharshleo&show_icons=true)
 
-|:heart: Learning | :yellow_heart: Dance | :blue_heart: Programming|
-|:---:|:---:|:---:|
+Current Lifestyle:
+
+|:pizza: Eat|:computer: Code|:sleeping: Sleep|:repeat: Repeat|
+|:---:|:---:|:---:|:---:|
 
 ## :climbing_man: LOT TO LEARN!!!
