@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Saharsh!! 👋
 
-<!--
-**saharshleo/saharshleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="400" height="400" src="https://github.com/saharshleo/saharshleo/blob/master/readme.gif">
 
-Here are some ideas to get you started:
+Student at VJTI, Mumbai  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [sudoku solver](https://github.com/saharshleo/sudokuSolver)
+- 🌱 I’m currently focusing on competitive programming
+- 👯 I’m looking to collaborate on projects involving computer vision, machine learning
+- 📫 How to reach me: [![Linkedin URL](https://img.shields.io/twitter/url?color=%230072b1&label=connect&logo=linkedin&logoColor=%230072b1&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falejandro-ramirez-ciceros%2F)](https://www.linkedin.com/in/saharsh-jain/)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=saharshleo&show_icons=true)
+
+|:heart: Learning | :yellow_heart: Dance | :blue_heart: Programming|
+|:---:|:---:|:---:|
+
+## :climbing_man: LOT TO LEARN!!!
