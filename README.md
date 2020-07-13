@@ -16,7 +16,7 @@ Student at VJTI, Mumbai
 
 Current Lifestyle:
 
-|:pizza: Eat|:computer: Code|:sleeping: Sleep|:repeat: Repeat|
+|:sleeping: Sleep|:pizza: Eat|:computer: Code|:repeat: Repeat|
 |:---:|:---:|:---:|:---:|
 
 ## :climbing_man: LOT TO LEARN!!!
