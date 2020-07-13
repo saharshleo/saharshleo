@@ -1,6 +1,6 @@
 ### Hi, I'm Saharsh!! 👋
 
-<img align="right" width="400" height="400" src="https://github.com/saharshleo/saharshleo/blob/master/readme.gif">
+<img align="right" width="300" height="300" src="https://github.com/saharshleo/saharshleo/blob/master/readme.gif">
 
 Student at VJTI, Mumbai  
 
