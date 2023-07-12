@@ -1,13 +1,9 @@
 ### Hi, I'm Saharsh!! 👋
 
-Visit: https://saharshleo.github.io/
-
 |:heart: Learning | :yellow_heart: Dancing | :blue_heart: Programming|
 |:---:|:---:|:---:|
 
 <img align="right" width="300" height="300" src="https://github.com/saharshleo/saharshleo/blob/master/readme.gif">
-
-Student at VJTI, Mumbai  
 
 - 🔭 I’m currently learning ML
 - 🌱 I’m currently focusing on DSA
@@ -17,7 +13,6 @@ Student at VJTI, Mumbai
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=saharshleo&show_icons=true) -->
 ![Saharsh Jain's github stats](https://github-readme-stats.vercel.app/api/?username=saharshleo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-Current Lifestyle:
 
 |:sleeping: Sleep|:pizza: Eat|:computer: Code|:repeat: Repeat|
 |:---:|:---:|:---:|:---:|
