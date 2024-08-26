@@ -1,4 +1,4 @@
 ### Hi, I'm Saharsh!! 👋
 
-|:heart: Learning | :yellow_heart: Dancing | :blue_heart: Programming|
+|:heart: Learning | :blue_heart: Programming | :yellow_heart: Dancing|
 |:---:|:---:|:---:|
